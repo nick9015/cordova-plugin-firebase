@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "755712622346",
+    "firebase_url": "https://smartcloud-1181.firebaseio.com",
+    "project_id": "smartcloud-1181",
+    "storage_bucket": "smartcloud-1181.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755712622346:android:81b76e84c1f2584e",
+        "android_client_info": {
+          "package_name": "com.smartcloud.smartservice.smartcloud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755712622346-fc36k7lpk7eai7n8mtheib4m38b6dc3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnK4gz_eDQsl4EEyvy8oycsyCa5pDxtk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
